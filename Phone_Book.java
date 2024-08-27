@@ -51,5 +51,8 @@ public class Phone_Book {
         while(in.hasNext()){
             myPhoneBook.printNumber(in.nextLine());
         }
+
+        // Closing the Scanner
+        in.close();
     }
 }
