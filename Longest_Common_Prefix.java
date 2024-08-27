@@ -1,5 +1,3 @@
-package Programming_Practice;
-
 /*
     This program is my initial solution to a challenge from LeetCode (https://leetcode.com/problems/longest-common-prefix/).
     The problem statement is as follows: Write a function to find the longest common prefix string among an array of strings.
